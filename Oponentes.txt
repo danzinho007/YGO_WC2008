@@ -1,0 +1,27 @@
+Duelistas:
+
+Heróis   1800 - 2
+Senhora  1500
+ADonzela 1200
+Cordeiros 600
+
+Fantasmas:
+
+BlockbackDragon (HighLevel 1450)
+DarkZane (Fortress 1100)
+Jaden Yuki (E-Gate 1150)
+MobiusTheFrost (F.G.E 1300)
+WhiteMagicianPikure (CureBurn 1200)
+YamiBakura (RevivalTime 1200)
+
+Outros:
+Japones (? 65535)
+Japones (? 65535)
+Japones (? 160)
+Japones (? 160)
+Japonesa (? 160)
+Japonesa (? 160)
+Liquid (? 87)
+Ryo (? 160)
+WTC (? 65535)
+YamiShadow (? 8863)
